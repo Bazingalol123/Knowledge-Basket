@@ -1,0 +1,11 @@
+.default-input.good-input:focus[b-rhr7osbt6w] {
+    outline: 5px solid green !important;
+}
+
+.default-input.warning-input:focus[b-rhr7osbt6w] {
+    outline: 5px solid orange !important;
+}
+
+.default-input.danger-input:focus[b-rhr7osbt6w] {
+    outline: 5px solid red !important;
+}

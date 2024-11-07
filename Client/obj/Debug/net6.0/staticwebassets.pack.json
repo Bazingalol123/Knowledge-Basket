@@ -1,0 +1,237 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\obj\\Debug\\net6.0\\compressed\\gk1trwvz4r.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\template.Client.styles.css",
+      "PackagePath": "staticwebassets\\template.Client.styles.css"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\css\\GameListDesign.css",
+      "PackagePath": "staticwebassets\\css\\GameListDesign.css"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\Build\\builds.data",
+      "PackagePath": "staticwebassets\\game\\Build\\builds.data"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\Build\\builds.framework.js",
+      "PackagePath": "staticwebassets\\game\\Build\\builds.framework.js"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\Build\\builds.loader.js",
+      "PackagePath": "staticwebassets\\game\\Build\\builds.loader.js"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\Build\\builds.wasm",
+      "PackagePath": "staticwebassets\\game\\Build\\builds.wasm"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\Build\\game.data",
+      "PackagePath": "staticwebassets\\game\\Build\\game.data"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\Build\\game.framework.js",
+      "PackagePath": "staticwebassets\\game\\Build\\game.framework.js"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\Build\\game.loader.js",
+      "PackagePath": "staticwebassets\\game\\Build\\game.loader.js"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\Build\\game.wasm",
+      "PackagePath": "staticwebassets\\game\\Build\\game.wasm"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\ServiceWorker.js",
+      "PackagePath": "staticwebassets\\game\\ServiceWorker.js"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\TemplateData\\favicon.ico",
+      "PackagePath": "staticwebassets\\game\\TemplateData\\favicon.ico"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\TemplateData\\icons\\unity-logo-dark.png",
+      "PackagePath": "staticwebassets\\game\\TemplateData\\icons\\unity-logo-dark.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\TemplateData\\icons\\unity-logo-light.png",
+      "PackagePath": "staticwebassets\\game\\TemplateData\\icons\\unity-logo-light.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\TemplateData\\progress-bar-empty-dark.png",
+      "PackagePath": "staticwebassets\\game\\TemplateData\\progress-bar-empty-dark.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\TemplateData\\progress-bar-empty-light.png",
+      "PackagePath": "staticwebassets\\game\\TemplateData\\progress-bar-empty-light.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\TemplateData\\progress-bar-full-dark.png",
+      "PackagePath": "staticwebassets\\game\\TemplateData\\progress-bar-full-dark.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\TemplateData\\progress-bar-full-light.png",
+      "PackagePath": "staticwebassets\\game\\TemplateData\\progress-bar-full-light.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\TemplateData\\style.css",
+      "PackagePath": "staticwebassets\\game\\TemplateData\\style.css"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\TemplateData\\unity-logo-dark.png",
+      "PackagePath": "staticwebassets\\game\\TemplateData\\unity-logo-dark.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\TemplateData\\unity-logo-light.png",
+      "PackagePath": "staticwebassets\\game\\TemplateData\\unity-logo-light.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\index.html",
+      "PackagePath": "staticwebassets\\game\\index.html"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\game\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\game\\manifest.webmanifest"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\Background-8.png",
+      "PackagePath": "staticwebassets\\images\\Background-8.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\addPhoto.svg",
+      "PackagePath": "staticwebassets\\images\\addPhoto.svg"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\arrow-return-left.svg",
+      "PackagePath": "staticwebassets\\images\\arrow-return-left.svg"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\ball.png",
+      "PackagePath": "staticwebassets\\images\\ball.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\basket-for-site.png",
+      "PackagePath": "staticwebassets\\images\\basket-for-site.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\basket.png",
+      "PackagePath": "staticwebassets\\images\\basket.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\basketball-player-shade.png",
+      "PackagePath": "staticwebassets\\images\\basketball-player-shade.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\board-png-8.png",
+      "PackagePath": "staticwebassets\\images\\board-png-8.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\cancelred.svg",
+      "PackagePath": "staticwebassets\\images\\cancelred.svg"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\checkMark.svg",
+      "PackagePath": "staticwebassets\\images\\checkMark.svg"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\checkgreen.svg",
+      "PackagePath": "staticwebassets\\images\\checkgreen.svg"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\frame-inspect.svg",
+      "PackagePath": "staticwebassets\\images\\frame-inspect.svg"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\hit-logo.png",
+      "PackagePath": "staticwebassets\\images\\hit-logo.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\plus.svg",
+      "PackagePath": "staticwebassets\\images\\plus.svg"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\pop-up-8.png",
+      "PackagePath": "staticwebassets\\images\\pop-up-8.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\questionMarks-8.png",
+      "PackagePath": "staticwebassets\\images\\questionMarks-8.png"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\reply.svg",
+      "PackagePath": "staticwebassets\\images\\reply.svg"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\tooltip.svg",
+      "PackagePath": "staticwebassets\\images\\tooltip.svg"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\images\\uploadImage.svg",
+      "PackagePath": "staticwebassets\\images\\uploadImage.svg"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\myproject3\\salyeda\\Sal Yeda\\Client\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.template.Client.props",
+      "PackagePath": "build\\template.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.template.Client.props",
+      "PackagePath": "buildMultiTargeting\\template.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.template.Client.props",
+      "PackagePath": "buildTransitive\\template.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.template.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

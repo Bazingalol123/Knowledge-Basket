@@ -1,0 +1,90 @@
+/* /Components/CustomInputText.razor.rz.scp.css */
+/*.default-input {
+    border-radius: 12px;
+    height: 30px;
+    font-size: 16px;
+    width: 40%;
+    padding: 0px 10px 0px 0px;
+    font-family: 'Varela Round';
+}*/
+
+    .default-input.good-input:focus[b-zawxnb9x8i] {
+        outline: 5px solid green !important;
+    }
+
+    .default-input.warnning-input:focus[b-zawxnb9x8i] {
+        outline: 5px solid orange !important;
+    }
+
+    .default-input.danger-input:focus[b-zawxnb9x8i] {
+        outline: 5px solid red !important;
+    }
+/* /Components/CustomInputTextArea.razor.rz.scp.css */
+.default-input.good-input:focus[b-rhr7osbt6w] {
+    outline: 5px solid green !important;
+}
+
+.default-input.warning-input:focus[b-rhr7osbt6w] {
+    outline: 5px solid orange !important;
+}
+
+.default-input.danger-input:focus[b-rhr7osbt6w] {
+    outline: 5px solid red !important;
+}
+/* /Pages/GamesList.razor.rz.scp.css */
+table[b-fjy1jr3vji] {
+    width: 100%;
+    color: black;
+    background-color: white;
+}
+/* /Shared/MainLayout.razor.rz.scp.css */
+main[b-82v0u5v5pd] {
+    width: 1280px;
+    height:610px;
+    margin: 0 auto;
+}
+.topbar[b-82v0u5v5pd] {
+    width: 100.2%;
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+nav[b-n0ky1ih9la] {
+    width: 100%;
+    background-color: #739477;
+    z-index: 100;
+    display: flex;
+    justify-content: flex-end; /* Align items to the left */
+    align-items: center; /* Center items vertically */
+    font-size: 0; /* This is typically to remove extra space between inline-block elements. Consider removing it if not needed. */
+    /*padding: 10px;*/ /* Optional: Add some padding for better appearance */
+    position:relative;
+}
+
+    nav > div[b-n0ky1ih9la] {
+        display: inline-block;
+        font-size: 12pt;
+    }
+
+.btn-nav[b-n0ky1ih9la] {
+    background: none;
+    border: none;
+    border-radius: 0;
+    cursor: pointer; /* Add cursor pointer to indicate clickable buttons */
+}
+
+[b-n0ky1ih9la] a, .btn-nav[b-n0ky1ih9la] {
+    color: white;
+    text-align: center;
+    display: block;
+    padding: 10px;
+}
+
+    [b-n0ky1ih9la] a.active {
+        background-color: rgba(255, 255, 255, 0.25);
+        color: orange;
+        font-weight:bold;
+    }
+
+    [b-n0ky1ih9la] a:hover, .btn-nav:hover[b-n0ky1ih9la] {
+        font-weight: bold;
+        color: orange;
+    }

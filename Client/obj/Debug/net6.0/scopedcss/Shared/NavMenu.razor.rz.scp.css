@@ -1,0 +1,41 @@
+nav[b-n0ky1ih9la] {
+    width: 100%;
+    background-color: #739477;
+    z-index: 100;
+    display: flex;
+    justify-content: flex-end; /* Align items to the left */
+    align-items: center; /* Center items vertically */
+    font-size: 0; /* This is typically to remove extra space between inline-block elements. Consider removing it if not needed. */
+    /*padding: 10px;*/ /* Optional: Add some padding for better appearance */
+    position:relative;
+}
+
+    nav > div[b-n0ky1ih9la] {
+        display: inline-block;
+        font-size: 12pt;
+    }
+
+.btn-nav[b-n0ky1ih9la] {
+    background: none;
+    border: none;
+    border-radius: 0;
+    cursor: pointer; /* Add cursor pointer to indicate clickable buttons */
+}
+
+[b-n0ky1ih9la] a, .btn-nav[b-n0ky1ih9la] {
+    color: white;
+    text-align: center;
+    display: block;
+    padding: 10px;
+}
+
+    [b-n0ky1ih9la] a.active {
+        background-color: rgba(255, 255, 255, 0.25);
+        color: orange;
+        font-weight:bold;
+    }
+
+    [b-n0ky1ih9la] a:hover, .btn-nav:hover[b-n0ky1ih9la] {
+        font-weight: bold;
+        color: orange;
+    }

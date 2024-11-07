@@ -1,0 +1,79 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = template.Client
+build_property.RootNamespace = template.Client
+build_property.ProjectDir = D:\myproject3\salyeda\Sal Yeda\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\myproject3\salyeda\Sal Yeda\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/myproject3/salyeda/Sal Yeda/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Components/ButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCdXR0b25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Components/PopUpComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQb3BVcENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Components/ToolTip.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUb29sVGlwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Pages/Questions.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVlc3Rpb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/myproject3/salyeda/Sal Yeda/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Components/CustomInputText.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdXN0b21JbnB1dFRleHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zawxnb9x8i
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Components/CustomInputTextArea.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdXN0b21JbnB1dFRleHRBcmVhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-rhr7osbt6w
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Pages/GamesList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZXNMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-fjy1jr3vji
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-82v0u5v5pd
+
+[D:/myproject3/salyeda/Sal Yeda/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-n0ky1ih9la
