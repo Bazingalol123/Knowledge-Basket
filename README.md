@@ -34,10 +34,10 @@ Sal Yeda is a gamified learning platform designed to enhance educational engagem
 - **Media Management**: Secure handling and storage of images and multimedia assets for dynamic game elements.
 
 <table>
-   <th>
+  <tr> <th>
       example
-   </th>
-   <tr>test</tr>
+   </th></tr>
+
 </table>
 
 ## Screenshots
