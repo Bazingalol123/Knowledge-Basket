@@ -29,13 +29,13 @@ Sal Yeda is a gamified learning platform designed to enhance educational engagem
 - **Media Management**: Secure handling and storage of images and multimedia assets for dynamic game elements.
 
 ## Screenshots
-| Game Screen | Question Editor |
+| Game Code Screen | Question Editor |
 | --- | --- |
-| ![Game Screen](screenshot1.png) | ![Question Editor](screenshot2.png) |
+| ![Game Code Screen](EnterGameCode.jpg) | ![Question Editor](תמונה1.jpg) |
 
 | Feedback Screen | Celebration Screen |
 | --- | --- |
-| ![Feedback Screen](screenshot3.png) | ![Celebration Screen](screenshot4.png) |
+| ![Feedback Screen](משוב חיובי V5.jpg) | ![Celebration Screen](כל הכבוד - סוף המשחק.jpg v5.jpg) |
 
 ## APIs
 Below is a summary of the API endpoints organized by controller, providing detailed functionality for each endpoint in the Sal Yeda application.
