@@ -35,7 +35,7 @@ Sal Yeda is a gamified learning platform designed to enhance educational engagem
 
 | Feedback Screen | Celebration Screen |
 | --- | --- |
-| ![Feedback Screen](feedback.jpg) | ![Celebration Screen](end-game.jpg) |
+| ![Feedback Screen](feedback.jpg) | ![Celebration Screen](endgame.jpg) |
 
 ## APIs
 Below is a summary of the API endpoints organized by controller, providing detailed functionality for each endpoint in the Sal Yeda application.
